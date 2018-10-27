@@ -23,6 +23,7 @@
 |1 EL|Öl| in einer Pfanne anschmoren|
 |3 TL|Paprikapulver|
 |1 MS|Scharfes Paprikapulver| darüber streuen
+|1 EL| Tomatenmark| einrühren|
 |300ml| Brühe| Ablöschen|
 |||und aufkochen lassen und 15 Minuten köcheln lassen|
 |||pürieren||
