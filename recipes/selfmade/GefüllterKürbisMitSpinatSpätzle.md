@@ -2,7 +2,7 @@
 
 |Menge|Zutat|Zubereitung|Schritt|
 |:----|----:|-----------|-:|
-|1|Hockaidokürbis|Deckel abschneiden und Aushöllen|Vorbereitung
+|1|Hockaidokürbis|Deckel abschneiden und Aushüllen und von Innen salzen|Vorbereitung
 |100g |Spinat|In Pfanne zusammenfallen lassen|Spätzle|
 |50g |Wasser|Hinzufügen und Pürieren||
 |1|Ei|||
