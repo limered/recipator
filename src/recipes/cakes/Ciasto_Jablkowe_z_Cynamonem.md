@@ -1,4 +1,4 @@
-# Chasto Jablkowe z Cynamonem
+# Ciasto Jablkowe z Cynamonem
 
 <!--zutaten-->
 |Menge|Zutat|Zubereitung| Schritt |
@@ -21,7 +21,7 @@
 ||Füllung| gleichmäßig drauf verteilen
 ||Alles| längst in vier Streifen schneiden
 ||Streifen| aufrollen und dabei aneinander kleben
-||Form|fetten und mit 
+||Form|fetten und mit
 |1 EL|Paniermehl|bestreuen
 ||gerollten Kuchen| mittig hineinlegen
 ||| 50-55 Minuten bei 170°C Backen

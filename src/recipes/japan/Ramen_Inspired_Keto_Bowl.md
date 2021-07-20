@@ -1,7 +1,5 @@
 # Ramen Inspired Keto Bowl
 
-## Zutaten
-
 <!--zutaten-->
 |Menge|Zutat|Zubereitung|  |
 |:----|----:|-----------|-:|
@@ -12,9 +10,5 @@
 |0.5|Avokado|in Streifen schneiden|5.|
 |125g|Soße|über alles gießen|6.|
 <!--/zutaten-->
-
-## Nährwerte
-
-700 kcal
 
 ![Image](img/RamenInspiredKetoBowl.jpg)

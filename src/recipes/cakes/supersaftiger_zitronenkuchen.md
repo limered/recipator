@@ -1,7 +1,5 @@
 # Supersaftiger Zitronenkuchen
 
-## Zutaten
-
 <!--zutaten-->
 |Menge|Zutat|Zubereitung|  |
 |:----|----:|-----------|-:|
